@@ -5662,11 +5662,6 @@ landscape:
             open_source: false
             crunchbase: https://www.crunchbase.com/organization/sentry
           - item:
-            name: SignalFX
-            homepage_url: https://www.splunk.com/en_us/devops/signalfx.html
-            logo: signal-fx.svg
-            crunchbase: https://www.crunchbase.com/organization/splunk
-          - item:
             name: Skooner
             homepage_url: https://github.com/skooner-k8s/skooner
             project: sandbox
@@ -5682,6 +5677,11 @@ landscape:
             logo: sosivio.svg
             twitter: null
             crunchbase: https://www.crunchbase.com/organization/sosivio
+          - item:
+            name: Splunk
+            homepage_url: https://www.splunk.com/
+            logo: splunk.svg
+            crunchbase: https://www.crunchbase.com/organization/splunk
           - item:
             name: StackState
             homepage_url: https://www.stackstate.com/
@@ -6004,6 +6004,11 @@ landscape:
             logo: sofastack-sofa-tracer.svg
             twitter: https://twitter.com/sofastack_io
             crunchbase: https://www.crunchbase.com/organization/ant-financial
+          - item:
+            name: Splunk
+            homepage_url: https://www.splunk.com/
+            logo: splunk.svg
+            crunchbase: https://www.crunchbase.com/organization/splunk
           - item:
             name: Spring Cloud Sleuth
             homepage_url: https://spring.io/projects/spring-cloud-sleuth
